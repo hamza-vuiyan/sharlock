@@ -1,0 +1,30 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Datasets
+data/
+datasets/
+
+# Trained models and checkpoints
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Logs and outputs
+logs/
+outputs/
+runs/
+
+# Credentials
+.env
+
+# IDE settings
+.vscode/
+.idea/
+pretrained/
+runs/
